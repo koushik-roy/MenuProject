@@ -65,7 +65,7 @@ const menu = [
   },
   {
     id: 9,
-    title: 'Cokee',
+    title: 'Coke',
     category: 'Drinks',
     price: 30.0,
     img: './images/coke.jpg',
